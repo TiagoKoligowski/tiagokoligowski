@@ -16,10 +16,9 @@
 const tiagoDeveloper = {
   name: "Tiago Reginato",
   location: "Brasil 🇧🇷",
-  role: "Desenvolvedor Web Full Stack",
+  role: "Desenvolvedor Web",
   company: "Freelancer & Open Source Contributor",
   focus: ["Frontend Development", "UI/UX Design", "Performance Optimization"],
-  architecture: ["SPA", "Responsive Design", "Component-Based"],
   currentlyLearning: ["TypeScript", "Next.js", "Cloud Architecture"],
   challenges: ["Building scalable web applications", "Optimizing user experience"],
   funFact: "Transformo café em código desde 2020 ☕"
