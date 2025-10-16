@@ -5,20 +5,8 @@
 
 </div>
 
-## 🚀 Sobre Mim
 
-
-```typescript
-const developerInfo = {
-  name: "Tiago Reginato",
-  location: "Brasil 🇧🇷",
-  role: "Desenvolvedor Web",
-  experience: "5 anos de experiência",
-  focus: ["Frontend Development", "UI/UX Design"],
-  currentlyLearning: ["React"],
-  funFact: "Adoro vôlei XD"
-};
-```
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 🔹 **Desenvolvedor apaixonado** por criar interfaces intuitivas e sistemas robustos  
