@@ -129,8 +129,6 @@ const tiagoDeveloper = {
 
 </div>
 
-- [x] Aperfeiçoar habilidades em React e Vue.js
-- [x] Dominar integração de APIs REST
 - [ ] **Certificação em Cloud Computing**
 - [ ] **Contribuir para projetos Open Source relevantes**
 - [ ] **Desenvolver aplicações com arquitetura serverless**
@@ -150,15 +148,6 @@ mindmap
       React Ecosystem
         Next.js
         Hooks
-        Context API
-      Vue.js
-        Vuex
-        Vue Router
-        Composition API
-      Vanilla JS
-        ES6+
-        DOM Manipulation
-        Async Programming
     UI/UX
       Responsive Design
       Performance Optimization
@@ -166,14 +155,8 @@ mindmap
       User Experience
     DevOps
       Railway Deployment
-      CI/CD Pipelines
       Version Control
       Code Quality
-    Backend
-      Node.js
-      API Development
-      Database Design
-      Authentication
 ```
 
 </div>
