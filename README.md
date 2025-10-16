@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Snake Animation](https://github.com/TiagoKoligowski/TiagoKoligowski/blob/output/github-contribution-grid-snake.svg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+Web;Especialista+em+Frontend+%26+UI%2FUX;Sempre+aprendendo+novas+tecnologias;Focado+em+Performance+%26+Experiência)
 
@@ -177,8 +176,6 @@ mindmap
 
 ### 🔥 **Principais Conquistas:**
 - ✅ **100% Uptime** em aplicações em produção
-- ✅ **+50 Projetos** desenvolvidos e entregues
-- ✅ **Performance Score 95+** no Google PageSpeed
 - ✅ **Responsive Design** em todos os projetos
 - ✅ **Clean Code** e boas práticas de desenvolvimento
 
@@ -191,23 +188,6 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-reginato-koligowski-8b133328b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoKoligowski)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.koligowski@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</div>
-
----
-
-## 💬 Vamos Colaborar?
-
-<div align="center">
-
-Estou sempre aberto a novos desafios e oportunidades de colaboração!  
-Se você tem um projeto interessante ou quer trocar ideias sobre desenvolvimento web,  
-**não hesite em entrar em contato!** 🚀
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
-
 </div>
 
 ---
