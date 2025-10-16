@@ -97,9 +97,6 @@ const tiagoDeveloper = {
 **Dashboard interativo para gerenciamento de APIs e monitoramento**  
 `React` `Node.js` `Railway` `Real-time Updates`
 
-### 💼 Portfolio Web Responsivo
-**Site pessoal com design moderno e performance otimizada**  
-`Vue.js` `Sass` `Responsive Design` `SEO Optimized`
 
 <a href="https://github.com/TiagoKoligowski?tab=repositories">
   <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos">
