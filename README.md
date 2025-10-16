@@ -25,7 +25,6 @@ const tiagoDeveloper = {
 };
 ```
 
-🔹 **Desenvolvedor Full Stack** especializado em criar soluções web modernas e escaláveis  
 🔹 **Expert em Frontend** com foco em React, Vue.js e vanilla JavaScript  
 🔹 **UI/UX Enthusiast** - Design centrado no usuário e performance  
 🔹 **Open Source Contributor** - Sempre colaborando com a comunidade  
